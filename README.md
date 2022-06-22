@@ -1,7 +1,7 @@
-# OlaDeMar Frontend Server
+# OlaDeMar Frontend Admin
 
 ## Abstract
-First version of the OlaDeMar ecommerce backend.
+Second version of the OlaDeMar ecommerce frontend with admin.
 
 ## Available Scripts
 
